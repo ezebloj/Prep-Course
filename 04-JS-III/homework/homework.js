@@ -245,7 +245,6 @@ function continueStatement(numero) {
   }
   return array;
 }
-console.log(continueStatement(0));
 
 // No modificar nada debajo de esta línea
 // --------------------------------
